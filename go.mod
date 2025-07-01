@@ -8,7 +8,7 @@ require (
 	github.com/ethereum/go-ethereum v1.16.0
 	github.com/gagliardetto/solana-go v1.12.0
 	github.com/perun-network/perun-eth-backend v0.6.0
-	github.com/perun-network/perun-solana-backend v0.0.3-0.20250701082653-67d0ea779771
+	github.com/perun-network/perun-solana-backend v0.0.3-0.20250701084131-2cd08ba99bdb
 	perun.network/go-perun v0.13.0
 )
 

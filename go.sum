@@ -223,6 +223,8 @@ github.com/perun-network/perun-solana-backend v0.0.3-0.20250701082339-8f2f733897
 github.com/perun-network/perun-solana-backend v0.0.3-0.20250701082339-8f2f73389799/go.mod h1:NuaC9wvqkXn+Y0sUaH9+KAiC/lAIricSkO2cqWmS5EM=
 github.com/perun-network/perun-solana-backend v0.0.3-0.20250701082653-67d0ea779771 h1:wavf1XYbL6+bVPTlzDvFi0F0K1RLI2Q5CznwdqKHfeg=
 github.com/perun-network/perun-solana-backend v0.0.3-0.20250701082653-67d0ea779771/go.mod h1:NuaC9wvqkXn+Y0sUaH9+KAiC/lAIricSkO2cqWmS5EM=
+github.com/perun-network/perun-solana-backend v0.0.3-0.20250701084131-2cd08ba99bdb h1:em6Q+nCUyfgQVmdpuL9q+F6/SsLvmD8iEM6j2lmK+1M=
+github.com/perun-network/perun-solana-backend v0.0.3-0.20250701084131-2cd08ba99bdb/go.mod h1:NuaC9wvqkXn+Y0sUaH9+KAiC/lAIricSkO2cqWmS5EM=
 github.com/peterh/liner v1.1.1-0.20190123174540-a2c9a5303de7 h1:oYW+YCJ1pachXTQmzR3rNLYGGz4g/UgFcjb28p/viDM=
 github.com/peterh/liner v1.1.1-0.20190123174540-a2c9a5303de7/go.mod h1:CRroGNssyjTd/qIG2FyxByd2S8JEAZXBl4qUrZf8GS0=
 github.com/pion/dtls/v2 v2.2.7 h1:cSUBsETxepsCSFSxC3mc/aDo14qQLMSL+O6IjG28yV8=
