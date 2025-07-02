@@ -51,5 +51,7 @@ The demo initializes 2 Perunc Clients for Alice and Bob utilizing both [perun-et
 
 It creates and funds a Perun payment channel on both chains showcasing the cross-chain capabilitiy of [go-perun](https://github.com/perun-network/go-perun)
 
+4. View the On-chain transactions regarding the Perun Program: https://explorer.solana.com/address/GQtQCW4dREybk2FR1gabaSb89CFxGrNS74JX5fZ97Qmh/domains?cluster=custom
+   
 
 
